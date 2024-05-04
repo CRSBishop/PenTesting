@@ -1,0 +1,7 @@
+use exploit/multi/handler
+set payload windows/meterpreter/reverse_tcp
+
+
+
+sqlmap - SQLInjection automated process
+searchsploit - database to search for exploit on protocol version e.g nginx 1.0.2
